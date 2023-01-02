@@ -1,0 +1,1 @@
+A real world example of a Monorepo using Java & Maven, for a blog post at https://www.transcendsoftware.se/posts/how-to-structure-a-java-monorepo-using-maven-and-github.
